@@ -1026,7 +1026,7 @@ Examples:
     "id": "curltest"
   }
 
-getaddressmempool
+getaddressmempool updated it here -> https://github.com/imylomylo/komodo/blob/master/src/rpcmisc.cpp#L702
 -----------------
 
 ::
